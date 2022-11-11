@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+html {
+  height: 100%;
+}
+body {
+  display: flex;
+  height: 100%;
+  background: linear-gradient(30deg, #4d1d8c, #572390, #6e319b, #8c46ab, #ab5ebc, #c775cc, #db86d8, #e38ddd);
+}
+.container {
+  margin: auto;
+  color: white;
+  font: 700 normal 80px 'Raleway';
+  font-weight: 900px;
+  text-transform: uppercase;
+  -webkit-text-stroke: 1px white; 
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 5px;
+}
