@@ -10,6 +10,6 @@
   - Bon anniversaire! → 🇫🇷 
 
 
-<!-- <p align="center">
-  <img src="birthday_project_gif.gif" />
-</p> -->
+<p align="center">
+  <img src="birthday_project.gif" />
+</p>
